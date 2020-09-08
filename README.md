@@ -1,5 +1,5 @@
 # mobile-automation-test-android
-This repository is part of online tutorial for youtube channel ...
+This repository is part of online tutorial for this [youtube channel](https://www.youtube.com/channel/UC0yz1P9c1mNfB7Rt5r-NbSA/playlists)
 
 # Environment setup
 * NodeJS
