@@ -14,7 +14,8 @@ exports.config = {
     sync: true,
     specs:[
         // './PlayWithMocha.js'
-        './api/click.js'
+        // './api/click.js'
+        './api/setValue.js'
     ],
     capabilities:[{
         "platformName": "Android",
