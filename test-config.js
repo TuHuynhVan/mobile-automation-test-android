@@ -12,16 +12,18 @@ exports.config = {
     },
     maxInstances: 1,
     sync: true,
-    specs:[
+    specs: [
         // './PlayWithMocha.js'
         // './api/click.js'
         './api/addValue.js'
     ],
-    capabilities:[{
-        "platformName": "Android",
-        "automationName": "UiAutomator2",
-        "udid": "3300d3672cca62b9",
-        "appPackage": "com.wdiodemoapp",
-        "appActivity": ".MainActivity"
-    }]
+    capabilities: [
+        {
+            "platformName": "Android",
+            "automationName": "UiAutomator2",
+            "udid": "3300d3672cca62b9",
+            "appPackage": "com.wdiodemoapp",
+            "appActivity": ".MainActivity"
+        }
+    ]
 }
