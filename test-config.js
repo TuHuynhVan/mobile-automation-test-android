@@ -15,7 +15,7 @@ exports.config = {
     specs: [
         // './PlayWithMocha.js'
         // './api/click.js'
-        './api/getText.js'
+        './api/switch.js'
     ],
     capabilities: [
         {
