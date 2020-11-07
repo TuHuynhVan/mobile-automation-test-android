@@ -16,7 +16,8 @@ exports.config = {
         // './PlayWithMocha.js'
         // './api/click.js'
         // './api/switch.js'
-        './api/waitForDisplayed.js'
+        // './api/waitForDisplayed.js'
+        './api/saveScreenShot.js'
     ],
     capabilities: [
         {
