@@ -17,7 +17,8 @@ exports.config = {
         // './api/click.js'
         // './api/switch.js'
         // './api/waitForDisplayed.js'
-        './api/saveScreenShot.js'
+        // './api/saveScreenShot.js'
+        './api/swipeVertical.js'
     ],
     capabilities: [
         {
