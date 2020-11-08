@@ -54,4 +54,5 @@ describe('Learning Swipe Vertially', function () {
         // 3. Click on ACTIVE button
         $(ACTIVE_BUTTON).click()
     });
+
 });
