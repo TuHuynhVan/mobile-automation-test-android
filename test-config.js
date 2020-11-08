@@ -18,7 +18,8 @@ exports.config = {
         // './api/switch.js'
         // './api/waitForDisplayed.js'
         // './api/saveScreenShot.js'
-        './api/swipeVertical.js'
+        // './api/swipeVertical.js'
+        './api/swipeHorizontal.js'
     ],
     capabilities: [
         {
