@@ -19,7 +19,8 @@ exports.config = {
         // './api/waitForDisplayed.js'
         // './api/saveScreenShot.js'
         // './api/swipeVertical.js'
-        './api/swipeHorizontal.js'
+        // './api/swipeHorizontal.js'
+        './src/test_scripts/account/TC_001_Login_PageObject_01.js'
     ],
     capabilities: [
         {
