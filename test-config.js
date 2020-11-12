@@ -20,7 +20,7 @@ exports.config = {
         // './api/saveScreenShot.js'
         // './api/swipeVertical.js'
         // './api/swipeHorizontal.js'
-        './src/test_scripts/account/TC_001_Login_PageObject_01.js'
+        './src/test_scripts/account/TC_003_InheritancePageObject.js'
     ],
     capabilities: [
         {
