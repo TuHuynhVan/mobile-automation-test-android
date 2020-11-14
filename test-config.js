@@ -10,6 +10,7 @@ exports.config = {
         require: ['@babel/register'],
         timeout: 600000
     },
+    waitforTimeout: 10000,
     maxInstances: 1,
     sync: true,
     specs: [

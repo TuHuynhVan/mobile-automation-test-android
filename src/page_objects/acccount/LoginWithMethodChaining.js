@@ -1,13 +1,13 @@
 import DashBoard from "./DashBoard";
 
-const EMAIL_TXT_FIELD = '~input-email'
+const EMAIL_TXT_FIELD = '~input-emailABC'
 const PASSWORD_TXT_FIELD = '~input-password'
 const LOGIN_BTN = '~button-LOGIN'
 
 class LoginWithMethodChaining {
 
     wait_screen_displayed() {
-        $(EMAIL_TXT_FIELD).waitForDisplayed({timeout: 5000})
+        $(EMAIL_TXT_FIELD).waitForDisplayed()
         return this
     }
 
