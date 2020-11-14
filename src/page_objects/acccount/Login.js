@@ -8,5 +8,9 @@ class Login extends CredentialForm {
         $(LOGIN_BTN).waitForDisplayed({timeout: 5000})
         return $(LOGIN_BTN)
     }
+
+    click_on_login_btn(){
+        this.login_btn.click()
+    }
 }
 export default new Login()
