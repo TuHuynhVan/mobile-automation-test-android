@@ -25,7 +25,8 @@ exports.config = {
         // './api/swipeHorizontal.js'
         // './src/test_scripts/account/TC_003_InheritancePageObject.js'
         // './src/test_scripts/account/TC_004_LoginWithMethodChaining.js'
-        './src/test_scripts/account/TC_005_Login.js'
+        // './src/test_scripts/account/TC_005_Login.js'
+        './src/test_scripts/account/TC_006_Login_WithCommonFlow.js'
     ],
     capabilities: [
         {
