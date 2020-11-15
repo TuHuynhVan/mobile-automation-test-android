@@ -29,6 +29,7 @@ class CredentialForm {
 
     verify_email_text_displayed(value){
         expect(this.email_txt_field).toHaveText(value, {trim: true})
+        chaiExpect(this.email_txt_field.getText()).to.be.equal(value, "[ERR] the email field value is incorrect!")
     }
 
 }
