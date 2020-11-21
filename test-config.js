@@ -16,17 +16,7 @@ exports.config = {
     maxInstances: 1,
     sync: true,
     specs: [
-        // './PlayWithMocha.js'
-        // './api/click.js'
-        // './api/switch.js'
-        // './api/waitForDisplayed.js'
-        // './api/saveScreenShot.js'
-        // './api/swipeVertical.js'
-        // './api/swipeHorizontal.js'
-        // './src/test_scripts/account/TC_003_InheritancePageObject.js'
-        // './src/test_scripts/account/TC_004_LoginWithMethodChaining.js'
-        // './src/test_scripts/account/TC_005_Login.js'
-        './src/test_scripts/account/TC_006_Login_WithCommonFlow.js'
+        './src/test_scripts/account/TC_001_Login.js'
     ],
     capabilities: [
         {

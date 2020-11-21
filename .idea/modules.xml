@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MOBILE_AUTO_TEST_NODEJS/.idea/MOBILE_AUTO_TEST_NODEJS.iml" filepath="$PROJECT_DIR$/../MOBILE_AUTO_TEST_NODEJS/.idea/MOBILE_AUTO_TEST_NODEJS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mobile-automation-test-android.iml" filepath="$PROJECT_DIR$/.idea/mobile-automation-test-android.iml" />
     </modules>
   </component>
