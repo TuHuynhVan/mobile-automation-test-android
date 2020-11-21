@@ -2,31 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ba106f-f306-421b-9b34-23e5d429a623" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page_objects/account/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page_objects/account/LoginMessagePopup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page_objects/common/NavBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_data/account/TC_001_Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_backup/page_objects/acccount/CredentialForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_backup/test_flows/account/LoginFlow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mobile-automation-test-android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mobile-automation-test-android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page_objects/acccount/CredentialForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page_objects/account/CredentialForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page_objects/acccount/DashBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/page_objects/acccount/DashBoard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page_objects/acccount/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/page_objects/acccount/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page_objects/acccount/LoginWithGlobalWait.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/page_objects/acccount/LoginWithGlobalWait.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page_objects/acccount/LoginWithMethodChaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/page_objects/acccount/LoginWithMethodChaining.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_data/account/TC_006_Login_WithCommonFlow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/test_data/account/TC_006_Login_WithCommonFlow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page_objects/account/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page_objects/account/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_data/account/TC_001_Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_data/account/TC_001_Login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test_flows/account/LoginFlow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_flows/account/LoginFlow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login_PageObject_01.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/test_scripts/account/TC_001_Login_PageObject_01.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login_PageObject_Global_Wait.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/test_scripts/account/TC_001_Login_PageObject_Global_Wait.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_003_InheritancePageObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/test_scripts/account/TC_003_InheritancePageObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_004_LoginWithMethodChaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/test_scripts/account/TC_004_LoginWithMethodChaining.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_005_Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/test_scripts/account/TC_005_Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_006_Login_WithCommonFlow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src_backup/test_scripts/account/TC_006_Login_WithCommonFlow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605922685518</updated>
-      <workItem from="1605922686863" duration="2578000" />
+      <workItem from="1605922686863" duration="5102000" />
     </task>
     <servers />
   </component>
