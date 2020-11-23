@@ -18,15 +18,6 @@ exports.config = {
     specs: [
         './src/test_scripts/account/TC_001_Login.js'
     ],
-    capabilities: [
-        {
-            "platformName": "Android",
-            "automationName": "UiAutomator2",
-            "udid": "3300d3672cca62b9",
-            "appPackage": "com.wdiodemoapp",
-            "appActivity": ".MainActivity"
-        }
-    ],
 
     before: function () {
         global.chaiExpect = chai.expect

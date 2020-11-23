@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ba106f-f306-421b-9b34-23e5d429a623" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-configs/android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-configs/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page_objects/account/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page_objects/account/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_data/account/TC_001_Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_data/account/TC_001_Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_flows/account/LoginFlow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_flows/account/LoginFlow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605922685518</updated>
-      <workItem from="1605922686863" duration="5102000" />
+      <workItem from="1605922686863" duration="6562000" />
+      <workItem from="1606103688240" duration="1055000" />
     </task>
     <servers />
   </component>
@@ -64,5 +64,9 @@
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.823@0.25.1440.823" timestamp="1605922744739" />
+    <state x="494" y="152" key="RollbackChangesDialog" timestamp="1605936101068">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="494" y="152" key="RollbackChangesDialog/0.25.1440.823@0.25.1440.823" timestamp="1605936101068" />
   </component>
 </project>
