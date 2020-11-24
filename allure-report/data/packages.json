@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Account Funtion",
+    "children" : [ {
+      "name" : "should login successfully",
+      "uid" : "8db07e8f8492d7ea",
+      "parentUid" : "51069a0dc8b2ca56efbf8f4bb018cba1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606189545050,
+        "stop" : 1606189552701,
+        "duration" : 7651
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3300d3672cca62b9-6.0.1" ]
+    }, {
+      "name" : "should see valid messgae when login with wrong creds",
+      "uid" : "5e0adc0985cdec36",
+      "parentUid" : "51069a0dc8b2ca56efbf8f4bb018cba1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606189552701,
+        "stop" : 1606189559392,
+        "duration" : 6691
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3300d3672cca62b9-6.0.1" ]
+    } ],
+    "uid" : "51069a0dc8b2ca56efbf8f4bb018cba1"
+  } ],
+  "name" : "packages"
+}

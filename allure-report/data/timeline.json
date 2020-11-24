@@ -1,0 +1,35 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "should see valid messgae when login with wrong creds",
+      "uid" : "5e0adc0985cdec36",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606189552701,
+        "stop" : 1606189559392,
+        "duration" : 6691
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3300d3672cca62b9-6.0.1" ]
+    }, {
+      "name" : "should login successfully",
+      "uid" : "8db07e8f8492d7ea",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606189545050,
+        "stop" : 1606189552701,
+        "duration" : 7651
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3300d3672cca62b9-6.0.1" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ],
+  "name" : "timeline"
+}

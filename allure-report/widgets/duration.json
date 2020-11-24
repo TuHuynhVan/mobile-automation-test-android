@@ -1,0 +1,21 @@
+[ {
+  "uid" : "8db07e8f8492d7ea",
+  "name" : "should login successfully",
+  "time" : {
+    "start" : 1606189545050,
+    "stop" : 1606189552701,
+    "duration" : 7651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e0adc0985cdec36",
+  "name" : "should see valid messgae when login with wrong creds",
+  "time" : {
+    "start" : 1606189552701,
+    "stop" : 1606189559392,
+    "duration" : 6691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
