@@ -2,26 +2,26 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "should login successfully",
-    "uid" : "8db07e8f8492d7ea",
+    "uid" : "69be2ea9f5ef3a45",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1606189545050,
-      "stop" : 1606189552701,
-      "duration" : 7651
+      "start" : 1606266037606,
+      "stop" : 1606266046057,
+      "duration" : 8451
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "3300d3672cca62b9-6.0.1" ]
   }, {
     "name" : "should see valid messgae when login with wrong creds",
-    "uid" : "5e0adc0985cdec36",
+    "uid" : "b11b0a33bcaefa25",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "broken",
     "time" : {
-      "start" : 1606189552701,
-      "stop" : 1606189559392,
-      "duration" : 6691
+      "start" : 1606266046058,
+      "stop" : 1606266060480,
+      "duration" : 14422
     },
     "flaky" : false,
     "newFailed" : false,

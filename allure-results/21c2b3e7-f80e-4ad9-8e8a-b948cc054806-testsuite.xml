@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1606266037606' stop='1606266060480'>
+    <name>Account Funtion</name>
+    <title>Account Funtion</title>
+    <test-cases>
+        <test-case start='1606266037606' status='passed' stop='1606266046057'>
+            <name>should login successfully</name>
+            <title>should login successfully</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='3300d3672cca62b9-6.0.1'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1606266046058' status='broken' stop='1606266060480'>
+            <name>should see valid messgae when login with wrong creds</name>
+            <title>should see valid messgae when login with wrong creds</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='3300d3672cca62b9-6.0.1'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1104451a-ee5c-4226-8a92-bb20cb1fc2ed-attachment.png' type='image/png' size='63687'/>
+            </attachments>
+            <failure>
+                <message>element ("//*[@text="Please enter a valid email address ..."]") still not displayed after 10000ms</message>
+                <stack-trace>Error: element ("//*[@text="Please enter a valid email address ..."]") still not displayed after 10000ms
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                    at Login.is_invalid_email_format_msg_displayed (/Users/tuhuynh/mobile-automation-test-android/src/page_objects/account/Login.js:23:30)
+                    at LoginFlow.verify_login_unsuccessfully (/Users/tuhuynh/mobile-automation-test-android/src/test_flows/account/LoginFlow.js:36:34)
+                    at Context.&lt;anonymous> (/Users/tuhuynh/mobile-automation-test-android/src/test_scripts/account/TC_001_Login.js:18:14)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

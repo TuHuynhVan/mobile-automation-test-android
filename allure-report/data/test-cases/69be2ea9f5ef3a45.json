@@ -1,12 +1,12 @@
 {
-  "uid" : "5e0adc0985cdec36",
-  "name" : "should see valid messgae when login with wrong creds",
-  "fullName" : "Account Funtion.should see valid messgae when login with wrong creds",
-  "historyId" : "61ebe064331b7c2c3e927823246cf0ca",
+  "uid" : "69be2ea9f5ef3a45",
+  "name" : "should login successfully",
+  "fullName" : "Account Funtion.should login successfully",
+  "historyId" : "8e13ed3f1317ea408df115216baebb5f",
   "time" : {
-    "start" : 1606189552701,
-    "stop" : 1606189559392,
-    "duration" : 6691
+    "start" : 1606266037606,
+    "stop" : 1606266046057,
+    "duration" : 8451
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "Account Funtion"
   }, {
     "name" : "testMethod",
-    "value" : "should see valid messgae when login with wrong creds"
+    "value" : "should login successfully"
   }, {
     "name" : "package",
     "value" : "Account Funtion"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5e0adc0985cdec36.json",
+  "source" : "69be2ea9f5ef3a45.json",
   "parameterValues" : [ "3300d3672cca62b9-6.0.1" ]
 }
