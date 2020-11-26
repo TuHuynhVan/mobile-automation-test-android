@@ -1,8 +1,5 @@
-import allureReporter from "@wdio/allure-reporter";
-
 let chai = require("chai")
 const allure = require('allure-commandline');
-const {addStory, addTestId} = require('@wdio/allure-reporter').default
 
 exports.config = {
     runner: 'local',
@@ -26,7 +23,9 @@ exports.config = {
         ['allure', {
             outputDir: 'allure-results',
             disableWebdriverStepsReporting: true,
-            disableMochaHooks: true
+            disableMochaHooks: true,
+            issueLinkTemplate: "https://mybug-tracker/{}",
+            tmsLinkTemplate: "https://my-tms/{}"
         }]
     ],
 

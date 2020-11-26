@@ -5,6 +5,8 @@ import allureReporter from '@wdio/allure-reporter'
 describe('Account Funtion', function () {
 
     it('Login successfully', function () {
+        allureReporter.addTestId("TC_001")
+        allureReporter.addSeverity("critical")
         const {email, password} = VALID_CREDS
         const loginFlow = new LoginFlow(email, password)
         loginFlow
@@ -13,6 +15,10 @@ describe('Account Funtion', function () {
     });
 
     it('Login unsuccessfully', function () {
+        allureReporter.addTestId("TC_002")
+        allureReporter.addSeverity("normal")
+        allureReporter.addIssue("ISSUE_002")
+        expect(true).toBe(false)
         const {email, password} = IN_VALID_CREDS
         const loginFlow = new LoginFlow(email, password)
         loginFlow
