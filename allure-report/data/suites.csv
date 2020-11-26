@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Nov 24 19:00:37 CST 2020","Tue Nov 24 19:00:46 CST 2020","8451","","Account Funtion","","Account Funtion","should login successfully","should login successfully",""
-"broken","Tue Nov 24 19:00:46 CST 2020","Tue Nov 24 19:01:00 CST 2020","14422","","Account Funtion","","Account Funtion","should see valid messgae when login with wrong creds","should see valid messgae when login with wrong creds",""

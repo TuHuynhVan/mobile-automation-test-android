@@ -1,5 +1,8 @@
+import allureReporter from "@wdio/allure-reporter";
+
 let chai = require("chai")
 const allure = require('allure-commandline');
+const {addStory, addTestId} = require('@wdio/allure-reporter').default
 
 exports.config = {
     runner: 'local',

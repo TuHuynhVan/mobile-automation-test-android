@@ -4,6 +4,7 @@
     <list default="true" id="81ba106f-f306-421b-9b34-23e5d429a623" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/e76f2a90a760229b.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/categories.csv" beforeDir="false" />
@@ -11,8 +12,8 @@
       <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/5e0adc0985cdec36.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/8db07e8f8492d7ea.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/69be2ea9f5ef3a45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b11b0a33bcaefa25.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/export/mail.html" beforeDir="false" />
@@ -43,9 +44,11 @@
       <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/91da4562-5ef8-44fa-9859-390f45d5e8ce-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1104451a-ee5c-4226-8a92-bb20cb1fc2ed-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/21c2b3e7-f80e-4ad9-8e8a-b948cc054806-testsuite.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/wdio-0-0-allure-reporter.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page_objects/account/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page_objects/account/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-configs/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-configs/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +77,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/page_objects/account" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test-configs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/page_objects/account" />
       <recent name="$PROJECT_DIR$/src/page_objects" />
@@ -93,7 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605922685518</updated>
       <workItem from="1605922686863" duration="6562000" />
-      <workItem from="1606103688240" duration="6281000" />
+      <workItem from="1606103688240" duration="13650000" />
+      <workItem from="1606355545338" duration="608000" />
     </task>
     <servers />
   </component>
@@ -105,9 +113,9 @@
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.823@0.25.1440.823" timestamp="1605922744739" />
-    <state x="494" y="152" key="RollbackChangesDialog" timestamp="1605936101068">
+    <state x="494" y="152" key="RollbackChangesDialog" timestamp="1606269218474">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
-    <state x="494" y="152" key="RollbackChangesDialog/0.25.1440.823@0.25.1440.823" timestamp="1605936101068" />
+    <state x="494" y="152" key="RollbackChangesDialog/0.25.1440.823@0.25.1440.823" timestamp="1606269218474" />
   </component>
 </project>
