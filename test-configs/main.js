@@ -3,8 +3,8 @@ const allure = require('allure-commandline');
 
 exports.config = {
     runner: 'local',
-    port: 4723,
-    host: 'localhost',
+    port: 5555,
+    hostname: 'localhost',
     path: '/wd/hub',
     logLevel: 'info',
     framework: 'mocha',
@@ -14,7 +14,7 @@ exports.config = {
         timeout: 600000
     },
     waitforTimeout: 10000,
-    maxInstances: 1,
+    maxInstances: 10,
     sync: true,
     specs: [
         './src/test_scripts/account/TC_001_Login.js'
@@ -39,7 +39,7 @@ exports.config = {
         return new Promise((resolve, reject) => {
             const generationTimeout = setTimeout(
                 () => reject(reportError),
-                5000)
+                10000)
 
             generation.on('exit', function (exitCode) {
                 clearTimeout(generationTimeout)
@@ -58,5 +58,4 @@ exports.config = {
             browser.takeScreenshot()
         }
     }
-
 }

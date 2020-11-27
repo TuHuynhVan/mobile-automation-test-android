@@ -1,0 +1,17 @@
+{
+  "host": "192.168.1.205",
+  "port": 4444,
+  "newSessionWaitTimeout": 60,
+  "servlets": [],
+  "withoutServlets": [],
+  "custom": {},
+  "capabilityMatcher": "com.sdetpro.appium.grid.matcher.CustomCapabilityMatcher",
+  "registry": "org.openqa.grid.internal.DefaultGridRegistry",
+  "throwOnCapabilityNotPresent": true,
+  "cleanUpCycle": 5000,
+  "role": "hub",
+  "debug": false,
+  "browserTimeout": 0,
+  "timeout": 90,
+  "sessionTimeout": 90
+}

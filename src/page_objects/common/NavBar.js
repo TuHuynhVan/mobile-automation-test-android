@@ -1,7 +1,7 @@
 const HOME_ICON = '~Home'
-const FORM_ICON = '~WebView'
+const FORM_ICON = '~Forms'
 const LOGIN_ICON = '~Login'
-const WEBVIEW_ICON = '~Forms'
+const WEBVIEW_ICON = '~WebView'
 const SWIPE_ICON = '~Swipe'
 
 class NavBar {

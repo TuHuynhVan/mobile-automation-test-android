@@ -2,7 +2,7 @@ import {VALID_CREDS, IN_VALID_CREDS} from '../../test_data/account/TC_001_Login'
 import LoginFlow from '../../test_flows/account/LoginFlow'
 import allureReporter from '@wdio/allure-reporter'
 
-describe('Account Funtion', function () {
+describe(`Account Function for ${browser.capabilities.deviceName}`, function () {
 
     it('Login successfully', function () {
         allureReporter.addTestId("TC_001")
@@ -17,8 +17,6 @@ describe('Account Funtion', function () {
     it('Login unsuccessfully', function () {
         allureReporter.addTestId("TC_002")
         allureReporter.addSeverity("normal")
-        allureReporter.addIssue("ISSUE_002")
-        expect(true).toBe(false)
         const {email, password} = IN_VALID_CREDS
         const loginFlow = new LoginFlow(email, password)
         loginFlow

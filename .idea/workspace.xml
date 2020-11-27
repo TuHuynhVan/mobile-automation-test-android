@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="81ba106f-f306-421b-9b34-23e5d429a623" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_grid/selenium-grid-custom-matcher-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_scripts/account/TC_002_Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_scripts/webview/TC_003_Webview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-configs/grid-parallel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-configs/grouping-testscripts-parallel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-configs/webview.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_flows/account/LoginFlow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_flows/account/LoginFlow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page_objects/common/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page_objects/common/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_scripts/account/TC_001_Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-configs/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-configs/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,26 +52,31 @@
   <component name="ProjectId" id="1hFCee8cZkfRwIn8EeuVXhYVqHw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/page_objects/account" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chromedriver" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chromedriver" />
+      <recent name="$PROJECT_DIR$/test-configs" />
+      <recent name="$PROJECT_DIR$/selenium_grid" />
+      <recent name="$PROJECT_DIR$/src/test_scripts/account" />
+      <recent name="$PROJECT_DIR$/src/page_objects/account" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test-configs" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/page_objects/account" />
-      <recent name="$PROJECT_DIR$/src/page_objects" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,20 +91,33 @@
       <workItem from="1606103688240" duration="13650000" />
       <workItem from="1606355545338" duration="3024000" />
       <workItem from="1606359990925" duration="414000" />
+      <workItem from="1606413418690" duration="31692000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605922744739">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.823@0.25.1440.823" timestamp="1605922744739" />
-    <state x="494" y="152" key="RollbackChangesDialog" timestamp="1606358203045">
-      <screen x="0" y="25" width="1440" height="823" />
+    <state x="494" y="151" key="RollbackChangesDialog" timestamp="1606434972725">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
+    <state x="494" y="151" key="RollbackChangesDialog/0.23.1440.831@0.23.1440.831" timestamp="1606434972725" />
     <state x="494" y="152" key="RollbackChangesDialog/0.25.1440.823@0.25.1440.823" timestamp="1606358203045" />
   </component>
 </project>
